@@ -1,0 +1,4 @@
+function int main(*char input) {
+  var int while = 3;
+  return 0;
+}
